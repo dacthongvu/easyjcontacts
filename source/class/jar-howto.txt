@@ -1,0 +1,5 @@
+1. Change directory to "class" directory
+2. Create a manifest file with content:
+	Manifest-Version: 1.0
+	Main-class: app.main.Application
+3. Execute command: jar cvfm program.jar manifest app
